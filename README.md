@@ -3,7 +3,8 @@
 ## Overview
 
 SmartHire AI is an AI-powered candidate ranking system designed to help recruiters identify the best candidates for a role based on semantic understanding rather than keyword matching.
-
+## Dataset is not uploaded because it is more than 100MB
+    candidates.json1
 ## Problem Statement
 
 Traditional Applicant Tracking Systems (ATS) rely heavily on keyword matching and often fail to identify strong candidates who possess relevant skills and experience but use different terminology.
