@@ -290,7 +290,7 @@ def main():
     # TEST MODE
     # ----------------------------------
 
-    TEST_MODE = True
+    TEST_MODE = False
 
     if TEST_MODE:
 
