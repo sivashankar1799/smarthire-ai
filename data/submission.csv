@@ -1,0 +1,12 @@
+candidate_id,rank,score,reasoning
+CAND_0001819,1,21.6,Experience=4.4 years; Current Role=ML Engineer; Semantic=52.70; Skill=17.86; Behavior=77.64
+CAND_0003791,2,19.81,Experience=6.6 years; Current Role=ML Engineer; Semantic=52.04; Skill=10.71; Behavior=84.08
+CAND_0001131,3,16.9,Experience=5.8 years; Current Role=ML Engineer; Semantic=52.63; Skill=10.71; Behavior=69.98
+CAND_0001494,4,16.6,Experience=6.4 years; Current Role=Data Scientist; Semantic=54.75; Skill=14.29; Behavior=59.69
+CAND_0002770,5,15.82,Experience=5.7 years; Current Role=AI Research Engineer; Semantic=51.67; Skill=10.71; Behavior=64.20
+CAND_0000273,6,15.5,Experience=5.8 years; Current Role=ML Engineer; Semantic=53.46; Skill=0.00; Behavior=67.28
+CAND_0002526,7,15.43,Experience=5.4 years; Current Role=Data Scientist; Semantic=51.41; Skill=0.00; Behavior=66.73
+CAND_0002426,8,15.01,Experience=3.3 years; Current Role=Data Scientist; Semantic=53.98; Skill=0.00; Behavior=62.44
+CAND_0002037,9,10.47,Experience=5.5 years; Current Role=ML Engineer; Semantic=54.01; Skill=0.00; Behavior=51.97
+CAND_0000981,10,8.33,Experience=6.4 years; Current Role=ML Engineer; Semantic=52.28; Skill=0.00; Behavior=55.70
+CAND_0001940,11,8.2,Experience=4.3 years; Current Role=AI Research Engineer; Semantic=53.84; Skill=0.00; Behavior=59.31
